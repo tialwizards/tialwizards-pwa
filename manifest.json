@@ -1,0 +1,22 @@
+{
+  "name": "Tial Wizards Tools",
+  "short_name": "TialWizards",
+  "start_url": "https://www.tialwizards.in/tools?utm_source=homescreen",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "description": "Tial Wizards - Tools, Tech Content, and AI Solutions",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
